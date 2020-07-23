@@ -1,0 +1,37 @@
+{
+  "title": "testing",
+  "desc": "book in which to put bag demo",
+    "code_lang":{
+      "Java": {
+        "ext": [
+          "java"
+        ],
+        "label": "Java",
+        "lang": "java"
+      }
+    },
+    "lang": "en",
+    "glob_exer_options": {
+      "JXOP-debug": "true"
+    },
+    "glob_ka_options": {
+      "threshold": 5,
+      "points": 1.0,
+      "required": true
+    },
+    "glob_extr_options": {
+      "code-workout": {
+        "points": 1.0
+      },
+      "points": 1.0
+    },
+    "req_full_ss": false,
+    "chapters": {
+       "Preface": {
+         "Intro": {}
+       },
+      "Simple Demonstration Examples":{
+          "MDTest/MDTest1": {}
+      }
+    }
+}
