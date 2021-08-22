@@ -318,24 +318,3 @@ Questions
 
 .. avembed:: Exercises/IntroToSoftwareDesign/HonorCodeSumm.html ka
     :long_name: Honor Code Understanding
-
-
-Workout with 1 exercise in it
------------------------------
-
-Recursion Programming Exercise: Check Palindrome
-------------------------------------------------
-
-.. extrtoolembed:: 'Recursion Programming Exercise: Check Palindrome'
-   :workout_id: 339
-
-
-
-Workout with many exercises in it
----------------------------------
-
-CodeWorkout LinkedBag Practice
-------------------------------
-
-.. extrtoolembed:: 'CodeWorkout LinkedBag Practice'
-   :workout_id: 388
